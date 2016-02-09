@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exo</string>
+    <string name="action_settings">Settings</string>
+    <string name="prompt">Votre nom ?</string>
+    <string name="btnName">OK</string>
+    <string name="largeTxt">Bienvenue</string>
+    <string name="btn2Name">Refresh</string>
+    <string name="btn3Name">Add</string>
+</resources>
